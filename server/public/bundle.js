@@ -184,7 +184,7 @@ function (_React$Component) {
     value: function render() {
       return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "app"
-      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", null, "Welcome to Dyscalculia Foundation"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", null, this.state.fruits.map(function (fruit) {
+      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", null, "Welcome to the Dyscalculia Foundation"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", null, this.state.fruits.map(function (fruit) {
         return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
           key: fruit
         }, fruit);
