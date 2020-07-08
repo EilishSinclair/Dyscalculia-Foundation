@@ -17,7 +17,7 @@ class App extends React.Component {
   render () {
     return (
       <div className='app'>
-        <h1>Welcome to the Dyscalculia Foundation</h1>
+        <h1>Dyscalculia Foundation</h1>
         <ul>
           {this.state.fruits.map(fruit => (
             <li key={fruit}>{fruit}</li>
